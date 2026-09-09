@@ -20,6 +20,10 @@ A partir do mapeamento do perfil técnico do candidato por meio de um quiz estru
 
 ## 📸 Demonstração do Projeto
 <img width="786" height="636" alt="image" src="https://github.com/user-attachments/assets/491ec638-e450-4d0e-a278-721384e73f46" />
+<img width="786" height="636" alt="image" src="https://github.com/user-attachments/assets/20b8852d-414d-4f42-a184-4b6c017b528b" />
+<img width="786" height="636" alt="image" src="https://github.com/user-attachments/assets/77deeaea-55c4-4ecf-a052-db1501da8f3e" />
+<img width="786" height="636" alt="image" src="https://github.com/user-attachments/assets/bad4e342-415b-48a2-9e96-6b5952979737" />
+<img width="792" height="239" alt="image" src="https://github.com/user-attachments/assets/a147eee0-5e82-4d91-a65e-08d647643e05" />
 
 <p align="center">
   <img src="COLE_O_LINK_DA_SUA_IMAGEM_AQUI" alt="Demonstração do Assistente Multiagente" width="100%">
