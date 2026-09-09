@@ -1,5 +1,5 @@
 # 🤖 RECOLOCA-IA | Assistente Multiagente para Busca de Vagas com IA
-### 💻 Automação Inteligente e Análise Estratégica de Oportunidades Profissionais
+### -> Automação Inteligente e Análise Estratégica de Oportunidades Profissionais
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
