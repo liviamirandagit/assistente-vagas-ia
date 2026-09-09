@@ -11,7 +11,7 @@
 
 ---
 
-## || Visão geral ||
+## || Visão Geral ||
 O **Assistente de Vagas IA** é um sistema multiagente desenvolvido para automatizar a busca, raspagem e análise de compatibilidade de vagas de emprego no mercado de tecnologia. 
 
 A partir do mapeamento do perfil técnico do candidato por meio de um quiz estruturado, o ecossistema orquestra agentes autônomos para coletar dados em tempo real na web, comparar com as habilidades do usuário e gerar relatórios estratégicos de aderência e *gaps* de competência.
