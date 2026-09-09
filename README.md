@@ -1,4 +1,4 @@
-# 🤖 RECOLOCA-IA Assistente Multiagente para Busca de Vagas com IA
+# 🤖 RECOLOCA-IA | Assistente Multiagente para Busca de Vagas com IA
 ### 💻 Automação Inteligente e Análise Estratégica de Oportunidades Profissionais
 
 <p align="center">
