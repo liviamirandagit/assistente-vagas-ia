@@ -11,16 +11,19 @@
 
 ---
 
-## 📌 Visão Geral
+## || Visão geral ||
 O **Assistente de Vagas IA** é um sistema multiagente desenvolvido para automatizar a busca, raspagem e análise de compatibilidade de vagas de emprego no mercado de tecnologia. 
 
 A partir do mapeamento do perfil técnico do candidato por meio de um quiz estruturado, o ecossistema orquestra agentes autônomos para coletar dados em tempo real na web, comparar com as habilidades do usuário e gerar relatórios estratégicos de aderência e *gaps* de competência.
 
 ---
 
-## 📸 Demonstração do Projeto
 <img width="786" height="636" alt="image" src="https://github.com/user-attachments/assets/491ec638-e450-4d0e-a278-721384e73f46" />
+
+---
 <img width="786" height="636" alt="image" src="https://github.com/user-attachments/assets/bad4e342-415b-48a2-9e96-6b5952979737" />
+
+---
 <img width="792" height="239" alt="image" src="https://github.com/user-attachments/assets/a147eee0-5e82-4d91-a65e-08d647643e05" />
 
 <p align="center">
@@ -29,7 +32,7 @@ A partir do mapeamento do perfil técnico do candidato por meio de um quiz estru
 
 ---
 
-## 📐 Arquitetura dos Agentes
+## || Arquitetura dos Agentes ||
 
 ```text
 ┌─────────────────────────┐      ┌─────────────────────────┐      ┌─────────────────────────┐
